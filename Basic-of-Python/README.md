@@ -16,11 +16,12 @@ How to setup anaconda on wihdow machine?
 
 (v)Wait for sometime , it will automatically open new tab in your defualt browser where you can see all system directories
 
-(vi)Open any directory or create new directory, Inside that directory create a new notebook.
+(vi)Open any directory or create a new directory, Inside that directory create a new notebook.
+
 
 (vii)Once the notebook is opened , you can start coding
 
+(viii) You can run any cell by just pressing Shift+Enter and output will be displayed below to the cell
 
-Please See below explaination for each cell.
 
 

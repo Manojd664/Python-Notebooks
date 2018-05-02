@@ -5,12 +5,19 @@ Environment for running python programs-> There are various ways in which you ca
 
 
 How to setup anaconda on wihdow machine?
+
 (i) Download Anaconda from link - https://www.anaconda.com/download/#windows
+
 (ii)Install it just by chosing all defuautl options.
+
 (iii) Once anaconda is installed on your machine then search for anaconda navigator in your system and open it.
+
 (iv)Click on next button next to the root and then click on "open with jupyter notebook"
+
 (v)Wait for sometime , it will automatically open new tab in your defualt browser where you can see all system directories
+
 (vi)Open any directory or create new directory, Inside that directory create a new notebook.
+
 (vii)Once the notebook is opened , you can start coding
 
 
